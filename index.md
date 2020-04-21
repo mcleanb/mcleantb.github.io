@@ -10,7 +10,7 @@
 
 
 <!Date transferred from defiant     8-10-2006>
-<!Last Modified:   4-17-2007>
+<!Last Modified:   4-17-2007 for github>
 <HEAD>
 <meta name="author" content="Dr. Bruce McLean">
 <meta name="Description" content=" Homepage of Dr. T. Bruce McLean">
