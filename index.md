@@ -1,31 +1,9 @@
 <HTML>
-<!------------moving to google drive--------------------------------->
-<!This page is an unofficial page of GSU >
-<!URL of Page:     https://googledrive.com/host/0B9lRSLt4l1XpX3I1bEZJQWhCUmc/index%20.html
-<!Department:      Mathematical Sciences>
-<!The PageMaster:  Bruce McLean  BMcLean@georgiasouthern.edu>
-<!Author:          Bruce McLean>
-<!Date Created:    September 4, 1997 >
-<!Date transferred from math server   1/8/2014>
-
-
-<!Date transferred from defiant     8-10-2006>
-<!Last Modified:   4-17-2020 for github>
-<HEAD>
-<meta name="author" content="Dr. Bruce McLean">
-<meta name="Description" content=" Homepage of Dr. T. Bruce McLean">
-<meta name="Keywords" content=
-"mathematician fibonacci concert band Georgia Southern Statesboro mathematics math computer science statistics power point Java applet hexahexaflexagon flexagon nonahexaflexagon ">
-
-<TITLE>
-Dr. Bruce McLean</TITLE>
-</HEAD>
-<FRAMESET border = 0 cols  ="160,*">
-<!117>
-<FRAME SRC="left.html" target="_top">
-<Frame src="right.html" target = "_top">
-</FRAMESET>
-<noframes>
-</noframes>
+<TITLE>McLean's Homepage</TITLE>
+<body>
+<h1><a href="index1.html>Move to my page! </a>
+</h1>
+<p>Updated 4/15/2020</p>
+</body>
 </HTML>
 
